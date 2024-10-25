@@ -3,7 +3,7 @@ Step :
 python -m venv venv
 #make virtual environment in visual studio
 
-.\venv\Scripts\Activate (windows)
+.\.venv\Scripts\Activate (windows)
 source venv/bin/activate (linux)
 #activate virtual environtment
 #dengan menggunakan virtual environment  module2 akan di install didalam folder ini saja.

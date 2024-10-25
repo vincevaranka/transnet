@@ -1,3 +1,7 @@
+ISTILAH
+OCR : Optical Character Recognation
+
+
 IMAGE TO TEXT
 
 pip install pytesseract Pillow
@@ -10,3 +14,8 @@ Windows :
 
 Linux : Install via apt:
 - sudo apt-get install tesseract-ocr
+
+
+HOW TO Run
+1. .\.venv\Scripts\Activate
+2. A:\elasticsearch\bin\elasticsearch.bat (command prompt windows)
